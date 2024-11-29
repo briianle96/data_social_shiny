@@ -1,0 +1,12 @@
+name: data_social_shiny
+title: data_social_shiny
+username: brian-leonel
+account: brian-leonel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13482373
+bundleId: 9438376
+url: https://brian-leonel.shinyapps.io/data_social_shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
