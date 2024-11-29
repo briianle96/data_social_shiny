@@ -5,5 +5,5 @@ Este proyecto tiene como objetivo introducir a los usuarios en el uso de R media
 
 La aplicación está estructurada para mostrar, mediante distintas páginas, un proceso básico que representan partes de un estudio de regresión. A través de esta herramienta, los usuarios podrán explorar de manera interactiva cómo se desarrolla el modelo medianet una herramienta como Shiny
 
-Paquete Shiny: https://www.shinyapps.io/
-Aplicacion de ejemplo: https://brian-leonel.shinyapps.io/data_social_shiny/
+**Paquete Shiny:** https://www.shinyapps.io/  
+**Aplicacion de ejemplo:** https://brian-leonel.shinyapps.io/data_social_shiny/  
